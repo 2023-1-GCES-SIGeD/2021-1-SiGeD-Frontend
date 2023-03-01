@@ -1,9 +1,9 @@
-export const BaseUrlUsers = 'http://10.6.52.2';
+export const BaseUrlUsers = 'http://localhost:3001';
 
-export const BaseUrlClients = 'http://10.6.52.4';
+export const BaseUrlClients = 'http://localhost:3002';
 
-export const BaseUrlDemands = 'http://10.6.52.7';
+export const BaseUrlDemands = 'http://localhost:3003';
 
-export const BaseUrlSectors = 'http://10.6.52.6';
+export const BaseUrlSectors = 'http://localhost:3004';
 
-export const BaseUrlCargos = 'http://10.6.52.5';
+export const BaseUrlCargos = 'http://localhost:3005';
