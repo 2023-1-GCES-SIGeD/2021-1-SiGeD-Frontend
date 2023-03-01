@@ -97,7 +97,7 @@ const UpdateCard = ({
       </PDFViwerCloseButton>
       <PDFViwer
         title="PDF"
-        src={`http://10.6.52.7/demand/file/${fileID[0]}?token=${token}`}
+        src={`http://localhost:3003/demand/file/${fileID[0]}?token=${token}`}
         scrolling="auto"
       />
     </PDFViwerContainer>
